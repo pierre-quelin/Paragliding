@@ -2,10 +2,10 @@
 
 Designed with [Freecad](https://www.freecad.org) and [Ultimaker-Cura](https://ultimaker.com/fr/software/ultimaker-cura/)
 
-Printer: Creality MyCR10-S
-Resolution: 0.2
-Infill: 100%
-Filament material: PLA
+* Printer: Creality [MyCR10-S](https://github.com/pierre-quelin/MyCR10-S)
+* Resolution: 0.2
+* Infill: 100%
+* Filament material: PLA
 
 <img src="https://github.com/pierre-quelin/Paragliding/blob/main/BrummelHookLock/Face.jpg" width="300">
 
